@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdB//l1PW16bPK4NUPgKtMzsntvTmlhe+bqrniudWa308J4hm+3goMqungP3kLXWwg+WLkV+lUMBwBgfjU0DoQ==",
+  "dgSpecHash": "49EKTxvc4OXZHmjmQO11U4j8Prcsmc4kkMcBLRdT/svHaETkSupG03Gd3KAjq90Ryvjf8KwpfjM16U0TrTh90A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew Kemper\\repos\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Andrew Kemper\\repos\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
