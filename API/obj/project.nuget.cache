@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2+nU9pxbZgwqf35PK+j6s2otPsHwh6iA5xvKiAsXnmAZkSBh4Tved+6Q3IoT++mkRihYrwB3uoF4DE3edJ+1vg==",
+  "dgSpecHash": "rrDfQgcgvysmxo/Raf4E3xvPZQiOfynTPYvDWsvJrr2TA23kWu4C/pMtuY58GxWS0ZuEcffEhMR2gTHqD1pHyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andrew Kemper\\repos\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Andrew Kemper\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Andrew Kemper\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.9\\microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -46,6 +48,7 @@
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Andrew Kemper\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Andrew Kemper\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
